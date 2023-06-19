@@ -13,17 +13,17 @@ body{
 }
 
 #left{
-    width: 15em;
+    width: 11em;
     padding: 1em;
 }
 .title{
     padding-top: 2em;
-    color: #00dd88;
+    color: #55ffcc;
     font-weight: bolder;
     font-size: 1.2em;
 }
 .title2{
-    color: #00cc77;
+    color: #55ffcc;
     font-weight: bolder;
     font-size: 1em;
     padding-top: 1em;
@@ -31,7 +31,7 @@ body{
     
 }
 .dato{
-    color: #00ff55;
+    color: #ffffff;
     font-size: 1em;
     padding-left: 1.5em;
     padding-top: 0.5em;
@@ -42,7 +42,7 @@ body{
 }
 
 #right{
-    background-color: #aaaaaa;
+    background-color: #ffffff;
     padding: 5px;
     display: inline-block;
     width: 35em;
