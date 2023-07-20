@@ -1,12 +1,12 @@
 body{
-    background-color: #002233;
+    background-color: #042940;
     display: flex;
     justify-content: center;
     font-family: 'Times New Roman', Times, serif;
 }
 
 #CV{
-    background-color: #005555;
+    background-color: #005c53;
     display: flex;
     justify-content: center;
     padding: 1em;
@@ -18,12 +18,12 @@ body{
 }
 .title{
     padding-top: 2em;
-    color: #00dd88;
+    color: #d6d58e;
     font-weight: bolder;
     font-size: 1.2em;
 }
 .title2{
-    color: #00cc77;
+    color: #d6d58e;
     font-weight: bolder;
     font-size: 1em;
     padding-top: 1em;
@@ -31,7 +31,7 @@ body{
     
 }
 .dato{
-    color: #00ff55;
+    color: #d6d58e;
     font-size: 1em;
     padding-left: 1.5em;
     padding-top: 0.5em;
@@ -42,7 +42,7 @@ body{
 }
 
 #right{
-    background-color: #aaaaaa;
+    background-color: #d6d58e;
     padding: 5px;
     display: inline-block;
     width: 35em;
